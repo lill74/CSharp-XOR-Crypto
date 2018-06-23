@@ -1,0 +1,7 @@
+C:\Users\a0103\source\repos\Cryptographics\Cryptographics\bin\Debug\Cryptographics.exe.config
+C:\Users\a0103\source\repos\Cryptographics\Cryptographics\bin\Debug\Cryptographics.exe
+C:\Users\a0103\source\repos\Cryptographics\Cryptographics\bin\Debug\Cryptographics.pdb
+C:\Users\a0103\source\repos\Cryptographics\Cryptographics\obj\Debug\Cryptographics.csprojAssemblyReference.cache
+C:\Users\a0103\source\repos\Cryptographics\Cryptographics\obj\Debug\Cryptographics.csproj.CoreCompileInputs.cache
+C:\Users\a0103\source\repos\Cryptographics\Cryptographics\obj\Debug\Cryptographics.exe
+C:\Users\a0103\source\repos\Cryptographics\Cryptographics\obj\Debug\Cryptographics.pdb
